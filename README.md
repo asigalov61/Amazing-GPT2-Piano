@@ -1,5 +1,13 @@
 # Amazing-GPT2-Piano
-OpenAI's GPT2 based Music AI Google Colab Notebooks for Music Generation/Composition and Capabilities Evaluation
+## OpenAI's GPT2 based Music AI Google Colab Notebooks for Music Generation/Composition and Capabilities Evaluation
+
+***
+
+## NEW: Chordified_GPT2_Piano.ipynb
+## A brand-new Chordified/Chordwise version of the original Amazing GPT2 Piano.
+Produces very nice results, especially on smaller datasets and some degree of overfitting.
+
+***
 
 Amazing GPT2 Piano = minGPT2/MIDI-TXT-MIDI implementation of GPT2 text-based symbolic music generator/model creator.
 
