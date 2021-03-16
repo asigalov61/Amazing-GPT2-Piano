@@ -3,6 +3,10 @@
 
 ***
 
+## [UPDATE 03-16-2021]: Please see Optimus-VIRTUOSO repo for more capable and more streamlined implementation of the GPT2-based Music AI system.
+
+***
+
 ## NEW: Chordified_GPT2_Piano.ipynb
 ## A brand-new Chordified/Chordwise version of the original Amazing GPT2 Piano.
 Produces very nice results, especially on smaller datasets and some degree of overfitting.
