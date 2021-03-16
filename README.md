@@ -4,6 +4,7 @@
 ***
 
 ## [UPDATE 03-16-2021]: Please see Optimus-VIRTUOSO repo for more capable and more streamlined implementation of the GPT2-based Music AI system.
+https://github.com/asigalov61/Optimus-VIRTUOSO
 
 ***
 
